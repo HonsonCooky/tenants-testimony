@@ -1,0 +1,6 @@
+@tenants_testimony_backend_HostAddress = http://localhost:5167
+
+GET {{tenants_testimony_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
